@@ -8,6 +8,10 @@ This project is a projection-based immersive art piece designed to evoke the emo
 ## Artist's Statement
 The Wildflowers seeks to evoke the emotion of joy through the immersive medium of an interactive realtime projetion. It uses vibrant colors and spiraling motions to represent floral concepts while reminding viewers of their childhood.
 
+## Video Explanation
+https://github.com/user-attachments/assets/e95ce848-1af1-4d16-a647-23365be0a933
+
+
 ## Materials / Software Used
 TouchDesigner, Photoshop
 
