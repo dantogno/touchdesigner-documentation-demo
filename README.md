@@ -1,3 +1,5 @@
+<img width="476" height="266" alt="image" src="https://github.com/user-attachments/assets/6010e5e6-8bad-4ad9-9597-43a8e7d0ad8d" />
+
 # The Wild Flowers
 This project is a projection-based immersive art piece designed to evoke the emotion of joy.
 
